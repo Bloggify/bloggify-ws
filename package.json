@@ -5,9 +5,9 @@
     "bloggify",
     "ws",
     "websockets",
-    "for",
     "actions"
   ],
+  "type": "module",
   "license": "MIT",
   "version": "4.0.3",
   "main": "lib/index.js",
