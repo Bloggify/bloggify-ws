@@ -1,7 +1,5 @@
-"use strict";
-
 ///// Client (browser)
-const ws = require("../lib");
+import ws from "../lib";
 
 const socket = ws("my-action", (err, data, cb) => {
     if (err) {
