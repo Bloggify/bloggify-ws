@@ -9,7 +9,7 @@
   ],
   "type": "module",
   "license": "MIT",
-  "version": "4.0.3",
+  "version": "5.0.0",
   "main": "lib/index.js",
   "browser": "lib/browser.js",
   "scripts": {
